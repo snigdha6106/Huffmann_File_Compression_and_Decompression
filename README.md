@@ -1,6 +1,4 @@
-Here’s a cleaned-up version of your README for the **Huffman File Compression and Decompression** project, with unwanted symbols removed and formatting polished:
 
----
 
 # Huffman File Compression
 
@@ -205,11 +203,6 @@ diff ebook_sample.txt ebook_decompressed.txt
 
 ---
 
-## 📄 License
-
-MIT License – see [LICENSE](LICENSE)
-
----
 
 ## 🙏 Acknowledgments
 
@@ -217,6 +210,3 @@ MIT License – see [LICENSE](LICENSE)
 * Python Standard Library
 * Jane Austen ("Pride and Prejudice" sample text)
 
----
-
-Let me know if you’d like this saved as a new `README.md` file or zipped along with the code.
